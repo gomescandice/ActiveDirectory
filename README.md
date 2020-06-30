@@ -18,7 +18,8 @@
 >Above are some of the operations that can be performed on Active Directory along with other operations like, Move a user to an Organizational Unit, Add/Remove a user from a security group, Disable/Enable a users account and many more. 
 
 ### Requirements
->Running the test project will require a valid login to Active Directory on the targeted domain. This can be editted the the appSettings.config file.
+>* Running the test project will require a valid login to Active Directory on the targeted domain. This can be editted the the appSettings.config file.
+>* To build, several nuget packages will be required and can be installed via the Nuget Package Manager on Visual Studio.
 
 ### Other Notes
 >Due to dummy values provided for login details, the test project will fail.
