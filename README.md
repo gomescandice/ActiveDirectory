@@ -23,3 +23,6 @@
 
 ### Other Notes
 >Due to dummy values provided for login details, the test project will fail.
+
+### Author
+Candice Gomes
